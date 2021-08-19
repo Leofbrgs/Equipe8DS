@@ -5,6 +5,7 @@
 | :--- | :--- | :--- | :--- |
 | 18/08| 0.1 | Adicionado Introdução| João Vitor, João Pedro, Lucas Midley e Lucas Oliveira |
 | 18/08| 0.2 | Adicionado Descrição do Usuário, Envolvidos e Referências| João Vitor |
+| 18/08| 0.2.1 | Adicionada a ocupação dos Envolvidos| João Vitor |
 
 ## Sumário
 [1. Introdução](#1-introdução)
@@ -75,13 +76,13 @@ Nesta seção são descritos competidores ou alternativas ao aplicativo que est�
 ## 3. Envolvidos
 |Nome | Ocupação |
 | :--- | :--- |
-| Caio Felipe Dias Nunes | - |
-| João Pedro Macedo Faria | - |
-| João Vitor de Souza Durco | - |
-| Leonardo Ferreira Borges | - |
-| Lucas Leite Macedo Maduro | - |
-| Lucas Midlhey Cardoso Naves | - |
-| Lucas Oliveira Silva | - |
+| Caio Felipe Dias Nunes | Equipe de Desenvolvimento |
+| João Pedro Macedo Faria | Equipe de Desenvolvimento |
+| João Vitor de Souza Durco | Equipe de Desenvolvimento |
+| Leonardo Ferreira Borges | Equipe de Desenvolvimento |
+| Lucas Leite Macedo Maduro | Equipe de Desenvolvimento |
+| Lucas Midlhey Cardoso Naves | Equipe de Desenvolvimento |
+| Lucas Oliveira Silva | Equipe de Desenvolvimento |
 
 ## 6. Referências
 ZOOM. Redação Zoom, 2021. RPG de mesa: o que é? Como jogar? Quais os melhores? Veja o guia!. Disponível em: <https://www.zoom.com.br/jogos/deumzoom/rpg-de-mesa>. Acesso em: 18 de ago. de 2021.
