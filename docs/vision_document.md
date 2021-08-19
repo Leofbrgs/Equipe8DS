@@ -92,7 +92,7 @@ Nesta seção são descritos competidores ou alternativas ao aplicativo que est�
 O objetivo principal do aplicativo é facilitar as ações do mestre, visto que o bot irá automatizar o processo de comprar e vender itens, além de que o jogador poderá gerenciar o seu próprio inventário, entre outros funcionamentos do RPG de mesa.
 
 ### 4.1 Perspectiva do Produto
-Espera-se que o bot aperfeiçoe a jogabilidade do RPG de mesa, já que suas funções irão diminuir a carga do mestre, com recursos que serão feitos de forma automática pelo bot.
+Espera-se que o bot aperfeiçoe a jogabilidade do RPG de mesa, já que suas funções vão diminuir a carga do mestre, com recursos que serão feitos de forma automática pelo bot.
 
 ### 4.2 Declaração de Posição do Produto
 | Para | Jogadores do RPG de mesa
