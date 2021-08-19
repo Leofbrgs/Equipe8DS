@@ -6,6 +6,7 @@
 | 18/08| 0.1 | Adicionado Introdução| João Vitor, João Pedro, Lucas Midley e Lucas Oliveira |
 | 18/08| 0.2 | Adicionado Descrição do Usuário, Envolvidos e Referências| João Vitor |
 | 18/08| 0.2.1 | Adicionada a ocupação dos Envolvidos| João Vitor |
+| 19/08| 0.3 | Adicionado Recursos do Produto| João Pedro |
 
 ## Sumário
 [1. Introdução](#1-introdução)
@@ -20,6 +21,8 @@
 * [2.4 Alternativas e Competição](#24-alternativas-e-competição)
 
 [3. Envolvidos](#3-envolvidos)
+
+[5. Recursos do produto](#5-recursos-do-produto)
 
 [6. Referências](#6-referências)
 
@@ -83,6 +86,23 @@ Nesta seção são descritos competidores ou alternativas ao aplicativo que est�
 | Lucas Leite Macedo Maduro | Equipe de Desenvolvimento |
 | Lucas Midlhey Cardoso Naves | Equipe de Desenvolvimento |
 | Lucas Oliveira Silva | Equipe de Desenvolvimento |
+
+## 5. Recursos do produto
+
+O sistema de _chatbot_ irá fornecer as seguintes funcionalidades ao jogador:
+* **Visualizar Itens -** Permite o jogador visualizar os itens vendidos por cada NPC.
+* **Visualizar NPCs -** Permite o jogador visualizar quais NPCs estão disponíveis.
+* **Botão Comprar/Vender -** Permite que o jogador solicite a compra e/ou venda de itens.
+
+O sistema de _chatbot_ irá fornecer as seguintes funcionalidades ao mestre:
+* **Busca de itens -** Permite o mestre consultar informações referentes a qualquer item.
+* **Busca de NPCs -** Permite o mestre consultar informações referentes a qualquer NPC.
+* **Busca de Relatórios -** Permite o mestre consultar informações referentes a relatórios pré existentes.
+
+O sistema de _chatbot_ terá as seguintes funcionalidades:
+* **Operações de troca -** Permite a realização automática de todas as operações de venda e compra dos jogadores.
+* **Cobrança de impostos -** Permite a realização automática de todas as operações tributárias.
+* **Relatórios de transações-** Permite a geração de relatórios das transações e da cobrança de impostos.
 
 ## 6. Referências
 ZOOM. Redação Zoom, 2021. RPG de mesa: o que é? Como jogar? Quais os melhores? Veja o guia!. Disponível em: <https://www.zoom.com.br/jogos/deumzoom/rpg-de-mesa>. Acesso em: 18 de ago. de 2021.
